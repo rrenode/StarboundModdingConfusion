@@ -1,0 +1,7 @@
+{
+	"author" : "rrenode",
+	"description" : "Adds a simple building",
+	"friendlyName" : "DockBuilding",
+	"name" : "dckbld",
+	"version" : "1"
+}
